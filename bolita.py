@@ -1,5 +1,5 @@
 """
-Jelly Ball v2 - Bolita gelatinosa sin gravedad, optimizada para fluidez
+bolita v1- Bolita  sin gravedad, optimizada para fluidez
 ------------------------------------------------------------------------
 Bolita negra que se estira y lanza con el mouse, rebota contra los bordes
 de la pantalla SIN gravedad, se deforma al impactar y se ilumina con un
