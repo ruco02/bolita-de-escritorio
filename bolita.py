@@ -6,7 +6,7 @@ de la pantalla SIN gravedad, se deforma al impactar y se ilumina con un
 color aleatorio en cada rebote.
 
 Como ejecutar:
-    python jelly_ball_v2.py
+    python bolita.py
 
 Requisitos:
     - Python 3.8+ (tkinter viene incluido en la instalacion estandar de Windows)
