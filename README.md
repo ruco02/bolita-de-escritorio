@@ -24,4 +24,4 @@ al ejecutar saldra una terminal se que es molesto pero no me fije como hacer que
 
 PD:fijate de que no se te pierda de vista en fondos oscuros
 
-> Esta es una versión experimental y el proyecto todavía está en desarrollo.
+> Esta es una versión experimental y el proyecto todavía está en desarrollo(MENTIRA por ahi lo abandone xdxdxdxdxddxdxd).
