@@ -1,6 +1,6 @@
 # bolita de escritorio(es una pendejada)
 
-Una pequeña bolita gelatinosa que vive en el escritorio y puede ser estirada y lanzada utilizando el mouse.
+Una pequeña bolita que vive en el escritorio y puede ser estirada y lanzada utilizando el mouse.
 
 ## Estado del proyecto
 
