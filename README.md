@@ -17,10 +17,10 @@ Actualmente la versión funcional incluye:
 
 ## Ejecución
 
-Ejecutar el archivo `bolita.py` con Python.
-con click izquierdo(manteniendo) para estirarlo y sueltalo para que empiece a rebotar por todas partes
-click derecho cierra la bolita y desaparece
-al ejecutar saldra una terminal se que es molesto pero no me fije como hacer que no salga eso directamente
+* Ejecutar el archivo `bolita.py` con Python.
+* con click izquierdo(manteniendo) para estirarlo y sueltalo para que empiece a rebotar por todas partes
+* click derecho cierra la bolita y desaparece
+* al ejecutar saldra una terminal se que es molesto pero no me fije como hacer que no salga eso directamente
 
 PD:fijate de que no se te pierda de vista en fondos oscuros
 
